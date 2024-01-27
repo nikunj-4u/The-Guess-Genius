@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/The-Guess-Genius/static/css/main.ff4bcf2b.css",
+    "main.js": "/The-Guess-Genius/static/js/main.ce68a7de.js",
+    "static/js/787.639fc91d.chunk.js": "/The-Guess-Genius/static/js/787.639fc91d.chunk.js",
+    "index.html": "/The-Guess-Genius/index.html",
+    "main.ff4bcf2b.css.map": "/The-Guess-Genius/static/css/main.ff4bcf2b.css.map",
+    "main.ce68a7de.js.map": "/The-Guess-Genius/static/js/main.ce68a7de.js.map",
+    "787.639fc91d.chunk.js.map": "/The-Guess-Genius/static/js/787.639fc91d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff4bcf2b.css",
+    "static/js/main.ce68a7de.js"
+  ]
+}
