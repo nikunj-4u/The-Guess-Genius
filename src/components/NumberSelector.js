@@ -1,4 +1,3 @@
-import React, { useState } from 'react'
 import styled from 'styled-components'
 
 const NumberSelector = ({error,setError,selectedNum,setSelectedNum}) => {
@@ -13,7 +12,7 @@ const NumberSelector = ({error,setError,selectedNum,setSelectedNum}) => {
       <p className='error'>{error}</p>
         <div className='flex'>
         {array.map((ele,i)=>{
-            return <Box isSelected={ele==selectedNum} 
+            return <Box isSelected={ele===selectedNum} 
                 key={i} 
                 onClick={()=>numberSelectorHandler(ele)}>
                 {ele}

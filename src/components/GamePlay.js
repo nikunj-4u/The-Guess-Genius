@@ -23,7 +23,7 @@ const GamePlay = () => {
         }
         const randomNumber=generateRandomNumber(1,7);
         setCurrentDice(randomNumber);
-        if(selectedNum==randomNumber){
+        if(selectedNum===randomNumber){
             setScore((prev)=>prev+randomNumber);
         }else setScore((prev)=>prev-2);
         setSelectedNum();
