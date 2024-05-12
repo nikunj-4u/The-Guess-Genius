@@ -7,7 +7,7 @@ const StartGame = ({toggle}) => {
    <>
    <Container>
     <div>
-    <img src="/images/dices.png"/>
+    <img src= "https://raw.githubusercontent.com/anshuopinion/React-10-Projects/project-3/project-3/public/images/dices.png" alt="Dice"/>
     </div>
     <div className="content">
       <h1>
